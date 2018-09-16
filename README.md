@@ -15,7 +15,7 @@ Fix, B. (2018). The Growth of US Top Income Inequality: A Hierarchical Redistrib
 
 Fix, B. (2018). A Hierarchy Model of Income Distribution. SocArXiv. https://doi.org/10.31235/osf.io/s3y2m
 
-Fix, B. (2018). Economics from the Top Down Does Hierarchy Unify Economic Theory? Thesis Commons. https://doi.org/10.31237/osf.io/7uqw9
+Fix, B. (2018). Economics from the Top: Down Does Hierarchy Unify Economic Theory? Thesis Commons. https://doi.org/10.31237/osf.io/7uqw9
 
 
 
