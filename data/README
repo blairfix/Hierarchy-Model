@@ -11,3 +11,6 @@ g_empirical.txt = Gini index data on firm intra-hierarchical level pay inequalit
 k_parameters.txt = parameters used by the capitalist gradient model
 
 s_empirical.txt = Span of control data by hierarchical level taken from firm case studies
+
+power_law_percentile.txt = top income percentiles used as cutoff threshold for the income distribution tail.
+
