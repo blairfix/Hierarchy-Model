@@ -6,7 +6,8 @@ Copyright Blair Fix
 blairfix@gmail.com
 
 
-Code for the hierarchy model is written in C++. Functions are contained in header files (.h) and models are contained in cpp files. 
+Code for the hierarchy model is written in C++. Core model functions are contained in "/core" directory.
+Utility functions (for analysis) are contained in "/utils" director.
 
 
 

@@ -1,15 +1,26 @@
-#include "base_fit.h"
-#include "base_pay_sim.h"
-#include "boot_sigma.h"
-#include "boot_span.h"
-#include "change_dir.h"
-#include "fit_model.h"
-#include "log_hist.h"
-#include "model.h"
-#include "pdf.h"
-#include "rpld.h"
-#include "r_sim.h"
-#include "sample.h"
+#include "core/base_fit.h"
+#include "core/base_pay_sim.h"
+#include "core/boot_sigma.h"
+#include "core/boot_span.h"
+#include "core/fit_model.h"
+#include "core/model.h"
+#include "core/rpld.h"
+#include "core/r_sim.h"
+
+
+
+#include "utils/change_dir.h"
+#include "utils/fit_power_law.h"
+#include "utils/gini_fast.h"
+#include "utils/k_frac_percentile.h"
+#include "utils/k_func.h"
+#include "utils/k_hist.h"
+#include "utils/lorenz.h"
+#include "utils/log_hist.h"
+#include "utils/pdf.h"
+#include "utils/sample.h"
+#include "utils/top.h"
+#include "utils/top_k.h"
 
 
 
@@ -28,6 +39,7 @@
 #define ARMA_NO_DEBUG
 #define ARMA_DONT_USE_HDF5
 #include <armadillo>
+
 
 /*
 This code implements the hierarchy model and generates statistics
